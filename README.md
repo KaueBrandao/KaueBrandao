@@ -11,7 +11,7 @@
 
 **Aplicações e dados**
 
- <img src="https://www.flaticon.com/br/icone-gratis/python_1822899" width="20"/>## Python
+ <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="20"/>## Python
  <img src="https://simpleicons.org/icons/javascript.svg" width="20" />## JavaScript
  <img src="https://simpleicons.org/icons/html5.svg" width="20" />## Html
  <img src="https://simpleicons.org/icons/flask.svg" width="20" />## Flask
