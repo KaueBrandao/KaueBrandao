@@ -11,7 +11,7 @@
 
 **Aplicações e dados**
 
- <img src="https://simpleicons.org/icons/python.svg" width="20" />## Python
+ <img src="https://simpleicons.org/icons/python.svg" width="20" color="red"/>## Python
  <img src="https://simpleicons.org/icons/javascript.svg" width="20" />## JavaScript
  <img src="https://simpleicons.org/icons/html5.svg" width="20" />## Html
  <img src="https://simpleicons.org/icons/flask.svg" width="20" />## Flask
