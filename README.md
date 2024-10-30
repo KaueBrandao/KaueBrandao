@@ -11,7 +11,12 @@
 
 **Aplicações e dados**
 
- <img src="https://simpleicons.org/icons/python.svg" width="20" />
+ <img src="https://simpleicons.org/icons/python.svg" width="20" />## Python
+ <img src="https://simpleicons.org/icons/javascript.svg" width="20" />## JavaScript
+ <img src="https://simpleicons.org/icons/html5.svg" width="20" />## Html
+ <img src="https://simpleicons.org/icons/flask.svg" width="20" />## Flask
+ <img src="https://simpleicons.org/icons/django.svg" width="20" />## Django
+ <img src="https://simpleicons.org/icons/react.svg" width="20" />## React JS e Native
 
 **Utilidades**
 
@@ -37,7 +42,7 @@
 <br/>
 
 <a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueBrandao&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
