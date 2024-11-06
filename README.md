@@ -1,52 +1,44 @@
-![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
+<p align="left"></p>
 
-## Sobre mim
+###
 
-- 😎 Conhecimentos no desenvolvimento de Site e Aplicativos.
-- 🎓 Cursando Tecnico em Informática no IFMA - Campus Açailândia.
-- 💼 Buscando uma oportunidade em estagio ou emprego como Dev JR.
-- 🌱 Aprendendo mais sobre Machine e Deep learning.
+<h1 align="left"></h1>
 
-## Minhas Skills
+###
 
-**Aplicações e dados**
+<h2 align="left">Sobre mim</h2>
 
- <img src="https://cdn.icon-icons.com/icons2/112/PNG/512/python_18894.png" width="20"/>## Python
- <img src="https://simpleicons.org/icons/javascript.svg" width="20" />## JavaScript
- <img src="https://simpleicons.org/icons/html5.svg" width="20" />## Html
- <img src="https://simpleicons.org/icons/flask.svg" width="20" />## Flask
- <img src="https://simpleicons.org/icons/django.svg" width="20" />## Django
- <img src="https://simpleicons.org/icons/react.svg" width="20" />## React JS e Native
+###
 
-**Utilidades**
+<p align="left">- 😎 Conhecimentos no desenvolvimento de Site e Aplicativos.<br>- 🎓 Cursando Tecnico em Informática no IFMA - Campus Açailândia.<br>- 💼 Buscando uma oportunidade em estagio ou emprego como Dev JR.<br>- 🌱 Aprendendo mais sobre Machine e Deep learning.</p>
 
-![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
+###
 
-**DevOps**
+<h2 align="left">Tecnologias</h2>
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-333333?style=flat&logo=bitbucket)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Travis](https://img.shields.io/badge/-Travis-333333?style=flat&logo=travis)
+###
 
-**Ferramentas de desenvolvimento**
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" height="40" alt="flask logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+</div>
 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Eclipse](https://img.shields.io/badge/-Eclipse-333333?style=flat&logo=eclipse-ide&logoColor=2C2255)
-![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
-![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-333333?style=flat&logo=adobe-xd&logoColor=007ACC)
+###
 
-<br/>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaueBrandao&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KaueBrandao&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=KaueBrandao&theme=dracula&show_icons=true" />
-</a>
-
-## Onde me encontrar
-
-[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:SEU-EMAIL)
-[![GitHub](https://img.shields.io/github/followers/iuricode?label=follow&style=social)](LINK-DO-SEU-GITHUB)
+###
